@@ -1,0 +1,1011 @@
+[{
+		"building_id": "B1",
+		"building_name": "Parklands Plaza",
+		"agent_id": "A1",
+		"no_of_floors": 4,
+		"location": "06 Chiromo Ln, Nairobi",
+		"parking_space": 126,
+		"security": true,
+		"tv_connection": false,
+		"VisitingDays": [
+			"Tuesday : 15h-16h",
+			"Thursday : 18h - 19h ",
+			"Friday :16h - 18h"
+		],
+		"owner": "Kameme Kitambi",
+		"building_pictures": ["https://drive.google.com/uc?id=1AONNAghY_J7CKqzhL-t3NGwPemi3g_9X",
+			"https://drive.google.com/uc?id=1mgNprcLxC5LIyWvIjRSJ3HT6E9kHMyZ5",
+			"https://drive.google.com/uc?id=1QP4cpzMGJr__JXOAK_cmp-bg14AxhZiU"
+		]
+
+	},
+	{
+		"building_id": "B2",
+		"building_name": "Pam Golding Properties Kenya",
+		"agent_id": "A1",
+		"no_of_floors": 6,
+		"location": "Fortis Tower, Woodvale Grove, Nairobi",
+		"parking_space": 128,
+		"security": false,
+		"tv_connection": true,
+		"owner": "Alice Mothoni",
+		"VisitingDays": [
+			"Monday : 15h-16h",
+			"Wednesday : 18h - 19h ",
+			"Friday :16h - 18h"
+		],
+		"building_pictures": ["https://drive.google.com/uc?id=1AONNAghY_J7CKqzhL-t3NGwPemi3g_9X",
+			"https://drive.google.com/uc?id=1mgNprcLxC5LIyWvIjRSJ3HT6E9kHMyZ5",
+			"https://drive.google.com/uc?id=1QP4cpzMGJr__JXOAK_cmp-bg14AxhZiU"
+		]
+
+	},
+	{
+		"building_id": "B3",
+		"building_name": "matinga Court Westlands",
+		"agent_id": "A1",
+		"no_of_floors": 8,
+		"location": "Muthithi Rd, Nairobi",
+		"parking_space": 12,
+		"security": true,
+		"tv_connection": true,
+		"owner": "Maina Mwangi",
+		"VisitingDays": [
+			"Monday : 17h-16h",
+			"Wednesday : 19h - 19h ",
+			"Friday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1gSRnMQqV2e3-UgY5wIpfzjMgs_BbaiDU",
+			"https://drive.google.com/uc?id=1wTG0ehYi8pLOyymX3YqXx_JkJth5UYIj",
+			"https://drive.google.com/uc?id=1NI1dxE6BCnpMp4aufdzMVYKkroPEB9US"
+		]
+
+	},
+	{
+		"building_id": "B4",
+		"building_name": "Furnished Apartments Kenya",
+		"agent_id": "A1",
+		"no_of_floors": 4,
+		"location": "Westland commercial centre, Nairobi City",
+		"parking_space": 120,
+		"security": true,
+		"tv_connection": false,
+		"owner": "Tenku City",
+		"VisitingDays": [
+			"Sunday : 17h-16h",
+			"Wednesday : 19h - 19h ",
+			"Friday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=182mK8CwM2am4L-7ORKwisLl39M2ceKQ-",
+			"https://drive.google.com/uc?id=1yJr4Dr5eGnj6bWM3TWDtbMYm79i01E2j",
+			"https://drive.google.com/uc?id=1I1pQAQlbUrrhR6AboD7HH0YynvUFt-4W"
+		]
+
+	},
+	{
+		"building_id": "B5",
+		"building_name": "Near Fenesi Gardens Apartments",
+		"agent_id": "A2",
+		"no_of_floors": 9,
+		"location": "School Lane, Westlands, Nairobi",
+		"parking_space": 120,
+		"security": true,
+		"tv_connection": false,
+		"owner": "Ochango Johnstone",
+		"VisitingDays": [
+			"Sunday : 17h-16h",
+			"Wednesday : 19h - 19h ",
+			"Monday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1HG-PcVkuKhGWerzoquT_5-VCqo4dMYXf",
+			"https://drive.google.com/uc?id=1ghrH-qFAHPNCIejGHOHfAyXFp92FycSu",
+			"https://drive.google.com/uc?id=185twTadpcmRNEmyT9XWmxOFOdhqqZeIa"
+		]
+
+	},
+	{
+		"building_id": "B6",
+		"building_name": "One Westpark",
+		"agent_id": "A2",
+		"no_of_floors": 3,
+		"location": "Mpaka Rd, Nairobi City",
+		"parking_space": 120,
+		"security": false,
+		"tv_connection": false,
+		"owner": "Kamili Oshago",
+		"VisitingDays": [
+			"Sunday : 17h-16h",
+			"Wednesday : 19h - 19h ",
+			"Monday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1s57Hsb1rkZiexFCq8rPldrA3M_eMZ6J3",
+			"https://drive.google.com/uc?id=1l-cBiLRMBA9jZgX1UVjEmkyaQMb5HuPZ",
+			"https://drive.google.com/uc?id=1bo9oTbweFHQjQ465w8b8CPeO1uriScz1"
+		]
+
+	},
+	{
+		"building_id": "B7",
+		"building_name": "Kates Apartments",
+		"agent_id": "A2",
+		"no_of_floors": 8,
+		"location": "48 School Ln, Nairobi City",
+		"parking_space": 120,
+		"security": false,
+		"tv_connection": false,
+		"owner": "Kasee Brian",
+		"VisitingDays": [
+			"Sunday : 17h-16h",
+			"Wednesday : 19h - 19h ",
+			"Monday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1flU_J3ipd8cwRVGAC5FsZnlGwM13M7jU",
+			"https://drive.google.com/uc?id=1orq5dZv1le72wI3VNAKViiqqw3CQYH4_",
+			"https://drive.google.com/uc?id=1YgnpH-e0nSTMJkU6yg59KOPp641fDVr0"
+		]
+
+	},
+	{
+		"building_id": "B8",
+		"building_name": "Westlands Pride",
+		"agent_id": "A2",
+		"no_of_floors": 8,
+		"location": "Waiyaki Way, Nairobi,kianda school",
+		"parking_space": 120,
+		"security": true,
+		"tv_connection": true,
+		"owner": "Kisinja Brian",
+		"VisitingDays": [
+			"Sunday : 17h-16h",
+			"Thursday : 19h - 19h ",
+			"Monday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1oFkiVEkcY7Cl_TdUQlwhVY_GUb7Elybx",
+			"https://drive.google.com/uc?id=1mh6Tblwgja4OnI4U9oOrGF4i1soeusBe",
+			"https://drive.google.com/uc?id=1MIOXnMngydY4H8MN2bTvUmbik94K6XOJ"
+		]
+
+	},
+	{
+		"building_id": "B9",
+		"building_name": "Westlands Luxury Apartments",
+		"agent_id": "A3",
+		"no_of_floors": 6,
+		"location": "Riverside Dr, Nairobi",
+		"parking_space": 150,
+		"security": true,
+		"tv_connection": true,
+		"owner": "Lyrics Dribbler",
+		"VisitingDays": [
+			"Sunday : 17h-16h",
+			"Thursday : 19h - 19h ",
+			"Monday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1jyqsqFlt1Eyu63j7p1fCnLrjy33MGzL_",
+			"https://drive.google.com/uc?id=1Rgyxct7LWINuir8IetpZu_XirT8ooO3S",
+			"https://drive.google.com/uc?id=1qfN0oc6dDHXleUBYkduYELwVhDmdfu2x"
+		]
+
+	},
+ {
+		"building_id": "B10",
+		"building_name": "Riverside Westlane Apartments",
+		"agent_id": "A3",
+		"no_of_floors": 6,
+		"location": "Ring Rd Westlands Ln, Nairobi City",
+		"parking_space": 200,
+		"security": true,
+		"tv_connection": true,
+		"owner": "Lyrics D",
+		"VisitingDays": [
+			"Sunday : 17h-16h",
+			"Sunday : 19h - 19h ",
+			"Sunday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1MATaXJVJUy-5OhQVxfxEwYbPNWQ0gNV4",
+			"https://drive.google.com/uc?id=1RCLLPPKw6U1nX4XoQ1R6GNeGSKgNDWFn",
+			"https://drive.google.com/uc?id=1n3spGAaglAEYI0eVcPfKnCRYNTGXUUo-"
+		]
+
+	},
+ {
+		"building_id": "B11",
+		"building_name": "Sherry Homes W-Place",
+		"agent_id": "A3",
+		"no_of_floors": 6,
+		"location": "Westlands Cl, Nairobi",
+		"parking_space": 200,
+		"security": true,
+		"tv_connection": false,
+		"owner": "Kilingi FC",
+		"VisitingDays": [
+			"Monday : 17h-16h",
+			"Tuesday : 19h - 19h ",
+			"Sunday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1sNKc2LC6gQ4fvjh53ngonrC1rNfIwDXo",
+			"https://drive.google.com/uc?id=1be5I-WNNlmEc4X8MRdL6_KARxHl8Z8qX",
+			"https://drive.google.com/uc?id=1uL1Q0d4cX44pqwOACHHpf666ytzqtG31"
+		]
+
+	},
+  {
+		"building_id": "B12",
+		"building_name": "Oasis Executive Suites",
+		"agent_id": "A3",
+		"no_of_floors": 6,
+		"location": "Westlands Cl, Nairobi",
+		"parking_space": 200,
+		"security": true,
+		"tv_connection": false,
+		"owner": "Kilingi FC",
+		"VisitingDays": [
+			"Monday : 17h-16h",
+			"Tuesday : 19h - 19h ",
+			"Sunday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1sNKc2LC6gQ4fvjh53ngonrC1rNfIwDXo",
+			"https://drive.google.com/uc?id=1be5I-WNNlmEc4X8MRdL6_KARxHl8Z8qX",
+			"https://drive.google.com/uc?id=1uL1Q0d4cX44pqwOACHHpf666ytzqtG31"
+		]
+
+	},
+  {
+		"building_id": "B13",
+		"building_name": "White Pearl Apartments",
+		"agent_id": "A4",
+		"no_of_floors": 5,
+		"location": "St Michael Rd, Nairobi",
+		"parking_space": 260,
+		"security": true,
+		"tv_connection": false,
+		"owner": "Kijiko FC",
+		"VisitingDays": [
+			"Monday : 17h-16h",
+			"Sarturday  : 19h - 19h ",
+			"Sunday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1dF3FRw9aWwae2GpN56ib14x9XGzNPX94",
+			"https://drive.google.com/uc?id=1fdv3ZLZb_5B7QvybImYxMdgRXeHtABdZ",
+			"https://drive.google.com/uc?id=11tOeaPo0b0FwiWt4-UbLbfdA_Ds1elmj"
+		]
+
+	},
+  {
+		"building_id": "B14",
+		"building_name": "Royal Apartments",
+		"agent_id": "A4",
+		"no_of_floors": 5,
+		"location": "Mvuli Rd, Nairobi",
+		"parking_space": 460,
+		"security": false,
+		"tv_connection": false,
+		"owner": "Royal Niggar",
+		"VisitingDays": [
+			"Monday : 17h-16h",
+			"Sarturday  : 19h - 19h ",
+			"Sunday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1eO0ZzZ1tqxKQawnUKxGuYGTpWrwsYat8",
+			"https://drive.google.com/uc?id=1LgBYkOQ9PPfmyrcGTT6gg5ynixMRvvbh",
+			"https://drive.google.com/uc?id=1-ZbPHQPa_2ZlS83Sh6pfIiO0qAWZKxdF"
+		]
+
+	},
+   {
+		"building_id": "B15",
+		"building_name": "Nova Apartments",
+		"agent_id": "A4",
+		"no_of_floors": 5,
+		"location": "Nairobi",
+		"parking_space": 660,
+		"security": true,
+		"tv_connection": false,
+		"owner": "Ninja Worrior",
+		"VisitingDays": [
+			"Monday : 17h-16h",
+			"Friday  : 19h - 19h ",
+			"Sunday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=10b831KJObUdO3GvTCTj_YC2yito_C3C8",
+			"https://drive.google.com/uc?id=1_U2pcsr29GW2KjdVF37U2MTPkP0PE5vI",
+			"https://drive.google.com/uc?id=1qoYIWnCoBJJRipXBW3BSwlSzmSD6J535"
+		]
+
+	},
+  {
+		"building_id": "B17",
+		"building_name": "Averina Apartment",
+		"agent_id": "A5",
+		"no_of_floors": 5,
+		"location": "church road,Nairobi",
+		"parking_space": 700,
+		"security": false,
+		"tv_connection": false,
+		"owner": "Chris Android",
+		"VisitingDays": [
+			"Monday : 17h-16h",
+			"Wednesday  : 19h - 19h ",
+			"Friday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1mkOrjJN2dGn-XYi-yec-rMY-IwEybzit",
+			"https://drive.google.com/uc?id=1w_pBLqBeS3H0NeLMvhd9fzz3B9MKXHPq",
+			"https://drive.google.com/uc?id=1-Pq262AH2XWsyG9ypcNWGcSOZI0odX4K"
+		]
+
+	},
+   {
+		"building_id": "B16",
+		"building_name": "Chelsea Park Apartments",
+		"agent_id": "A4",
+		"no_of_floors": 5,
+		"location": "Nairobi",
+		"parking_space": 660,
+		"security": true,
+		"tv_connection": false,
+		"owner": "Chelsea Niggar",
+		"VisitingDays": [
+			"Monday : 17h-16h",
+			"Friday  : 19h - 19h ",
+			"Friday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1xTeG_7bsD8Dgi8T8L-jz7PIl2rdkli39",
+			"https://drive.google.com/uc?id=1wR-S-CHv-_dUsqeC8vViqXXOap4bg7Yf",
+			"https://drive.google.com/uc?id=1wfv7v3CHgGa4LMV65UyQG01D0Af-EERl"
+		]
+
+	},
+  {
+		"building_id": "B18",
+		"building_name": "Near Fenesi Gardens Apartments",
+		"agent_id": "A5",
+		"no_of_floors": 5,
+		"location": "School Lane, Westlands, Nairobi",
+		"parking_space": 700,
+		"security": false,
+		"tv_connection": false,
+		"owner": "Chris Android",
+		"VisitingDays": [
+			"Monday : 17h-16h",
+			"Wednesday  : 19h - 19h ",
+			"Friday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1MEJiGl7osVVUyJ9VKLC1mes_MHi4_eY5",
+			"https://drive.google.com/uc?id=1ecenu9QLY48c2i2Ln3Sq4VF5mbf4VuoA",
+			"https://drive.google.com/uc?id=1xycKBbUBOGakoDFbUUtnzPTCIheQBRqq"
+		]
+
+	},
+   {
+		"building_id": "B19",
+		"building_name": "Queensgate Serviced Apartments",
+		"agent_id": "A5",
+		"no_of_floors": 5,
+		"location": "Nairobi",
+		"parking_space": 770,
+		"security": false,
+		"tv_connection": true,
+		"owner": "Chris Mark",
+		"VisitingDays": [
+			"Tuesday: 17h-16h",
+			"Wednesday  : 19h - 19h ",
+			"Friday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1brmxWTBteWFm5t0ZlP0DHdOwblcOnsBp",
+			"https://drive.google.com/uc?id=1WysVsr2YWMShIB9NiNqss1OcWGWbb0PW",
+			"https://drive.google.com/uc?id=1qKKKJ1d-o5c0vfeJeKM8E_rGeqfKraoE"
+		]
+
+	},
+    {
+		"building_id": "B20",
+		"building_name": "Muthangari Suite Apartment",
+		"agent_id": "A5",
+		"no_of_floors": 5,
+		"location": "Muthangari Suite Apartment, Nairobi",
+		"parking_space": 990,
+		"security": true,
+		"tv_connection": true,
+		"owner": "David Kameme",
+		"VisitingDays": [
+			"Tuesday: 17h-16h",
+			"Monday  : 19h - 19h ",
+			"Friday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1Fc22w6eE2uTG7LN3prhA1wYt0D6R9Ieq",
+			"https://drive.google.com/uc?id=1ugZDdEnzHO9O4nBRojewikYQ1dezUCeO",
+			"https://drive.google.com/uc?id=1qfgc_-8t6sD6qzkMQukAu8mOGkXWEuEg"
+		]
+
+	},
+     {
+		"building_id": "B21",
+		"building_name": "Oyster Apartments",
+		"agent_id": "A6",
+		"no_of_floors": 9,
+		"location": "Riverside Dr, Nairobi",
+		"parking_space": 90,
+		"security": true,
+		"tv_connection": true,
+		"owner": "Kahene Muneni",
+		"VisitingDays": [
+			"Tuesday: 17h-16h",
+			"Monday  : 19h - 19h ",
+			"Friday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1Pcw4X9FH2uX9M2HeGCubMP0L9k_as9Ym",
+			"https://drive.google.com/uc?id=1L-CCIaxwx9zWfQY6QPtWetaU0vtUaaHT",
+			"https://drive.google.com/uc?id=1e6q27FtrSsrwvJfR9RKbUFYcDGIcl6NI"
+		]
+
+	},
+      {
+		"building_id": "B22",
+		"building_name": "Neighbours Apartments",
+		"agent_id": "A6",
+		"no_of_floors": 9,
+		"location": "Riverside Dr, Nairobi",
+		"parking_space": 900,
+		"security": false,
+		"tv_connection": true,
+		"owner": "Kamiti Maseve",
+		"VisitingDays": [
+			"Tuesday: 17h-16h",
+			"Monday  : 19h - 19h ",
+			"Saturday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1XY7LkeUw68fRi4WdWnf5sISq64umtSKX",
+			"https://drive.google.com/uc?id=11IuKfd0va_vOy0RFtkr0EVyCSqud6F1d",
+			"https://drive.google.com/uc?id=1t2jd96THQUXFhRhH5jmMtMhwbg2OkFnD"
+		]
+
+	},
+  {
+		"building_id": "B23",
+		"building_name": "Krishna Pointe Apartment",
+		"agent_id": "A6",
+		"no_of_floors": 9,
+		"location": "Riverside Dr, Nairobi",
+		"parking_space": 900,
+		"security": false,
+		"tv_connection": true,
+		"owner": "Kamiti Maseve",
+		"VisitingDays": [
+			"Tuesday: 17h-16h",
+			"Monday  : 19h - 19h ",
+			"Saturday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1XY7LkeUw68fRi4WdWnf5sISq64umtSKX",
+			"https://drive.google.com/uc?id=11IuKfd0va_vOy0RFtkr0EVyCSqud6F1d",
+			"https://drive.google.com/uc?id=1t2jd96THQUXFhRhH5jmMtMhwbg2OkFnD"
+		]
+
+	},
+
+][{
+		"building_id": "B1",
+		"building_name": "Parklands Plaza",
+		"agent_id": "A1",
+		"no_of_floors": 4,
+		"location": "06 Chiromo Ln, Nairobi",
+		"parking_space": 126,
+		"security": true,
+		"tv_connection": false,
+		"VisitingDays": [
+			"Tuesday : 15h-16h",
+			"Thursday : 18h - 19h ",
+			"Friday :16h - 18h"
+		],
+		"owner": "Kameme Kitambi",
+		"building_pictures": ["https://drive.google.com/uc?id=1AONNAghY_J7CKqzhL-t3NGwPemi3g_9X",
+			"https://drive.google.com/uc?id=1mgNprcLxC5LIyWvIjRSJ3HT6E9kHMyZ5",
+			"https://drive.google.com/uc?id=1QP4cpzMGJr__JXOAK_cmp-bg14AxhZiU"
+		]
+
+	},
+	{
+		"building_id": "B2",
+		"building_name": "Pam Golding Properties Kenya",
+		"agent_id": "A1",
+		"no_of_floors": 6,
+		"location": "Fortis Tower, Woodvale Grove, Nairobi",
+		"parking_space": 128,
+		"security": false,
+		"tv_connection": true,
+		"owner": "Alice Mothoni",
+		"VisitingDays": [
+			"Monday : 15h-16h",
+			"Wednesday : 18h - 19h ",
+			"Friday :16h - 18h"
+		],
+		"building_pictures": ["https://drive.google.com/uc?id=1AONNAghY_J7CKqzhL-t3NGwPemi3g_9X",
+			"https://drive.google.com/uc?id=1mgNprcLxC5LIyWvIjRSJ3HT6E9kHMyZ5",
+			"https://drive.google.com/uc?id=1QP4cpzMGJr__JXOAK_cmp-bg14AxhZiU"
+		]
+
+	},
+	{
+		"building_id": "B3",
+		"building_name": "matinga Court Westlands",
+		"agent_id": "A1",
+		"no_of_floors": 8,
+		"location": "Muthithi Rd, Nairobi",
+		"parking_space": 12,
+		"security": true,
+		"tv_connection": true,
+		"owner": "Maina Mwangi",
+		"VisitingDays": [
+			"Monday : 17h-16h",
+			"Wednesday : 19h - 19h ",
+			"Friday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1gSRnMQqV2e3-UgY5wIpfzjMgs_BbaiDU",
+			"https://drive.google.com/uc?id=1wTG0ehYi8pLOyymX3YqXx_JkJth5UYIj",
+			"https://drive.google.com/uc?id=1NI1dxE6BCnpMp4aufdzMVYKkroPEB9US"
+		]
+
+	},
+	{
+		"building_id": "B4",
+		"building_name": "Furnished Apartments Kenya",
+		"agent_id": "A1",
+		"no_of_floors": 4,
+		"location": "Westland commercial centre, Nairobi City",
+		"parking_space": 120,
+		"security": true,
+		"tv_connection": false,
+		"owner": "Tenku City",
+		"VisitingDays": [
+			"Sunday : 17h-16h",
+			"Wednesday : 19h - 19h ",
+			"Friday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=182mK8CwM2am4L-7ORKwisLl39M2ceKQ-",
+			"https://drive.google.com/uc?id=1yJr4Dr5eGnj6bWM3TWDtbMYm79i01E2j",
+			"https://drive.google.com/uc?id=1I1pQAQlbUrrhR6AboD7HH0YynvUFt-4W"
+		]
+
+	},
+	{
+		"building_id": "B5",
+		"building_name": "Near Fenesi Gardens Apartments",
+		"agent_id": "A2",
+		"no_of_floors": 9,
+		"location": "School Lane, Westlands, Nairobi",
+		"parking_space": 120,
+		"security": true,
+		"tv_connection": false,
+		"owner": "Ochango Johnstone",
+		"VisitingDays": [
+			"Sunday : 17h-16h",
+			"Wednesday : 19h - 19h ",
+			"Monday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1HG-PcVkuKhGWerzoquT_5-VCqo4dMYXf",
+			"https://drive.google.com/uc?id=1ghrH-qFAHPNCIejGHOHfAyXFp92FycSu",
+			"https://drive.google.com/uc?id=185twTadpcmRNEmyT9XWmxOFOdhqqZeIa"
+		]
+
+	},
+	{
+		"building_id": "B6",
+		"building_name": "One Westpark",
+		"agent_id": "A2",
+		"no_of_floors": 3,
+		"location": "Mpaka Rd, Nairobi City",
+		"parking_space": 120,
+		"security": false,
+		"tv_connection": false,
+		"owner": "Kamili Oshago",
+		"VisitingDays": [
+			"Sunday : 17h-16h",
+			"Wednesday : 19h - 19h ",
+			"Monday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1s57Hsb1rkZiexFCq8rPldrA3M_eMZ6J3",
+			"https://drive.google.com/uc?id=1l-cBiLRMBA9jZgX1UVjEmkyaQMb5HuPZ",
+			"https://drive.google.com/uc?id=1bo9oTbweFHQjQ465w8b8CPeO1uriScz1"
+		]
+
+	},
+	{
+		"building_id": "B7",
+		"building_name": "Kates Apartments",
+		"agent_id": "A2",
+		"no_of_floors": 8,
+		"location": "48 School Ln, Nairobi City",
+		"parking_space": 120,
+		"security": false,
+		"tv_connection": false,
+		"owner": "Kasee Brian",
+		"VisitingDays": [
+			"Sunday : 17h-16h",
+			"Wednesday : 19h - 19h ",
+			"Monday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1flU_J3ipd8cwRVGAC5FsZnlGwM13M7jU",
+			"https://drive.google.com/uc?id=1orq5dZv1le72wI3VNAKViiqqw3CQYH4_",
+			"https://drive.google.com/uc?id=1YgnpH-e0nSTMJkU6yg59KOPp641fDVr0"
+		]
+
+	},
+	{
+		"building_id": "B8",
+		"building_name": "Westlands Pride",
+		"agent_id": "A2",
+		"no_of_floors": 8,
+		"location": "Waiyaki Way, Nairobi,kianda school",
+		"parking_space": 120,
+		"security": true,
+		"tv_connection": true,
+		"owner": "Kisinja Brian",
+		"VisitingDays": [
+			"Sunday : 17h-16h",
+			"Thursday : 19h - 19h ",
+			"Monday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1oFkiVEkcY7Cl_TdUQlwhVY_GUb7Elybx",
+			"https://drive.google.com/uc?id=1mh6Tblwgja4OnI4U9oOrGF4i1soeusBe",
+			"https://drive.google.com/uc?id=1MIOXnMngydY4H8MN2bTvUmbik94K6XOJ"
+		]
+
+	},
+	{
+		"building_id": "B9",
+		"building_name": "Westlands Luxury Apartments",
+		"agent_id": "A3",
+		"no_of_floors": 6,
+		"location": "Riverside Dr, Nairobi",
+		"parking_space": 150,
+		"security": true,
+		"tv_connection": true,
+		"owner": "Lyrics Dribbler",
+		"VisitingDays": [
+			"Sunday : 17h-16h",
+			"Thursday : 19h - 19h ",
+			"Monday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1jyqsqFlt1Eyu63j7p1fCnLrjy33MGzL_",
+			"https://drive.google.com/uc?id=1Rgyxct7LWINuir8IetpZu_XirT8ooO3S",
+			"https://drive.google.com/uc?id=1qfN0oc6dDHXleUBYkduYELwVhDmdfu2x"
+		]
+
+	},
+ {
+		"building_id": "B10",
+		"building_name": "Riverside Westlane Apartments",
+		"agent_id": "A3",
+		"no_of_floors": 6,
+		"location": "Ring Rd Westlands Ln, Nairobi City",
+		"parking_space": 200,
+		"security": true,
+		"tv_connection": true,
+		"owner": "Lyrics D",
+		"VisitingDays": [
+			"Sunday : 17h-16h",
+			"Sunday : 19h - 19h ",
+			"Sunday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1MATaXJVJUy-5OhQVxfxEwYbPNWQ0gNV4",
+			"https://drive.google.com/uc?id=1RCLLPPKw6U1nX4XoQ1R6GNeGSKgNDWFn",
+			"https://drive.google.com/uc?id=1n3spGAaglAEYI0eVcPfKnCRYNTGXUUo-"
+		]
+
+	},
+ {
+		"building_id": "B11",
+		"building_name": "Sherry Homes W-Place",
+		"agent_id": "A3",
+		"no_of_floors": 6,
+		"location": "Westlands Cl, Nairobi",
+		"parking_space": 200,
+		"security": true,
+		"tv_connection": false,
+		"owner": "Kilingi FC",
+		"VisitingDays": [
+			"Monday : 17h-16h",
+			"Tuesday : 19h - 19h ",
+			"Sunday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1sNKc2LC6gQ4fvjh53ngonrC1rNfIwDXo",
+			"https://drive.google.com/uc?id=1be5I-WNNlmEc4X8MRdL6_KARxHl8Z8qX",
+			"https://drive.google.com/uc?id=1uL1Q0d4cX44pqwOACHHpf666ytzqtG31"
+		]
+
+	},
+  {
+		"building_id": "B12",
+		"building_name": "Oasis Executive Suites",
+		"agent_id": "A3",
+		"no_of_floors": 6,
+		"location": "Westlands Cl, Nairobi",
+		"parking_space": 200,
+		"security": true,
+		"tv_connection": false,
+		"owner": "Kilingi FC",
+		"VisitingDays": [
+			"Monday : 17h-16h",
+			"Tuesday : 19h - 19h ",
+			"Sunday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1sNKc2LC6gQ4fvjh53ngonrC1rNfIwDXo",
+			"https://drive.google.com/uc?id=1be5I-WNNlmEc4X8MRdL6_KARxHl8Z8qX",
+			"https://drive.google.com/uc?id=1uL1Q0d4cX44pqwOACHHpf666ytzqtG31"
+		]
+
+	},
+  {
+		"building_id": "B13",
+		"building_name": "White Pearl Apartments",
+		"agent_id": "A4",
+		"no_of_floors": 5,
+		"location": "St Michael Rd, Nairobi",
+		"parking_space": 260,
+		"security": true,
+		"tv_connection": false,
+		"owner": "Kijiko FC",
+		"VisitingDays": [
+			"Monday : 17h-16h",
+			"Sarturday  : 19h - 19h ",
+			"Sunday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1dF3FRw9aWwae2GpN56ib14x9XGzNPX94",
+			"https://drive.google.com/uc?id=1fdv3ZLZb_5B7QvybImYxMdgRXeHtABdZ",
+			"https://drive.google.com/uc?id=11tOeaPo0b0FwiWt4-UbLbfdA_Ds1elmj"
+		]
+
+	},
+  {
+		"building_id": "B14",
+		"building_name": "Royal Apartments",
+		"agent_id": "A4",
+		"no_of_floors": 5,
+		"location": "Mvuli Rd, Nairobi",
+		"parking_space": 460,
+		"security": false,
+		"tv_connection": false,
+		"owner": "Royal Niggar",
+		"VisitingDays": [
+			"Monday : 17h-16h",
+			"Sarturday  : 19h - 19h ",
+			"Sunday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1eO0ZzZ1tqxKQawnUKxGuYGTpWrwsYat8",
+			"https://drive.google.com/uc?id=1LgBYkOQ9PPfmyrcGTT6gg5ynixMRvvbh",
+			"https://drive.google.com/uc?id=1-ZbPHQPa_2ZlS83Sh6pfIiO0qAWZKxdF"
+		]
+
+	},
+   {
+		"building_id": "B15",
+		"building_name": "Nova Apartments",
+		"agent_id": "A4",
+		"no_of_floors": 5,
+		"location": "Nairobi",
+		"parking_space": 660,
+		"security": true,
+		"tv_connection": false,
+		"owner": "Ninja Worrior",
+		"VisitingDays": [
+			"Monday : 17h-16h",
+			"Friday  : 19h - 19h ",
+			"Sunday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=10b831KJObUdO3GvTCTj_YC2yito_C3C8",
+			"https://drive.google.com/uc?id=1_U2pcsr29GW2KjdVF37U2MTPkP0PE5vI",
+			"https://drive.google.com/uc?id=1qoYIWnCoBJJRipXBW3BSwlSzmSD6J535"
+		]
+
+	},
+  {
+		"building_id": "B17",
+		"building_name": "Averina Apartment",
+		"agent_id": "A5",
+		"no_of_floors": 5,
+		"location": "church road,Nairobi",
+		"parking_space": 700,
+		"security": false,
+		"tv_connection": false,
+		"owner": "Chris Android",
+		"VisitingDays": [
+			"Monday : 17h-16h",
+			"Wednesday  : 19h - 19h ",
+			"Friday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1mkOrjJN2dGn-XYi-yec-rMY-IwEybzit",
+			"https://drive.google.com/uc?id=1w_pBLqBeS3H0NeLMvhd9fzz3B9MKXHPq",
+			"https://drive.google.com/uc?id=1-Pq262AH2XWsyG9ypcNWGcSOZI0odX4K"
+		]
+
+	},
+   {
+		"building_id": "B16",
+		"building_name": "Chelsea Park Apartments",
+		"agent_id": "A4",
+		"no_of_floors": 5,
+		"location": "Nairobi",
+		"parking_space": 660,
+		"security": true,
+		"tv_connection": false,
+		"owner": "Chelsea Niggar",
+		"VisitingDays": [
+			"Monday : 17h-16h",
+			"Friday  : 19h - 19h ",
+			"Friday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1xTeG_7bsD8Dgi8T8L-jz7PIl2rdkli39",
+			"https://drive.google.com/uc?id=1wR-S-CHv-_dUsqeC8vViqXXOap4bg7Yf",
+			"https://drive.google.com/uc?id=1wfv7v3CHgGa4LMV65UyQG01D0Af-EERl"
+		]
+
+	},
+  {
+		"building_id": "B18",
+		"building_name": "Near Fenesi Gardens Apartments",
+		"agent_id": "A5",
+		"no_of_floors": 5,
+		"location": "School Lane, Westlands, Nairobi",
+		"parking_space": 700,
+		"security": false,
+		"tv_connection": false,
+		"owner": "Chris Android",
+		"VisitingDays": [
+			"Monday : 17h-16h",
+			"Wednesday  : 19h - 19h ",
+			"Friday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1MEJiGl7osVVUyJ9VKLC1mes_MHi4_eY5",
+			"https://drive.google.com/uc?id=1ecenu9QLY48c2i2Ln3Sq4VF5mbf4VuoA",
+			"https://drive.google.com/uc?id=1xycKBbUBOGakoDFbUUtnzPTCIheQBRqq"
+		]
+
+	},
+   {
+		"building_id": "B19",
+		"building_name": "Queensgate Serviced Apartments",
+		"agent_id": "A5",
+		"no_of_floors": 5,
+		"location": "Nairobi",
+		"parking_space": 770,
+		"security": false,
+		"tv_connection": true,
+		"owner": "Chris Mark",
+		"VisitingDays": [
+			"Tuesday: 17h-16h",
+			"Wednesday  : 19h - 19h ",
+			"Friday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1brmxWTBteWFm5t0ZlP0DHdOwblcOnsBp",
+			"https://drive.google.com/uc?id=1WysVsr2YWMShIB9NiNqss1OcWGWbb0PW",
+			"https://drive.google.com/uc?id=1qKKKJ1d-o5c0vfeJeKM8E_rGeqfKraoE"
+		]
+
+	},
+    {
+		"building_id": "B20",
+		"building_name": "Muthangari Suite Apartment",
+		"agent_id": "A5",
+		"no_of_floors": 5,
+		"location": "Muthangari Suite Apartment, Nairobi",
+		"parking_space": 990,
+		"security": true,
+		"tv_connection": true,
+		"owner": "David Kameme",
+		"VisitingDays": [
+			"Tuesday: 17h-16h",
+			"Monday  : 19h - 19h ",
+			"Friday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1Fc22w6eE2uTG7LN3prhA1wYt0D6R9Ieq",
+			"https://drive.google.com/uc?id=1ugZDdEnzHO9O4nBRojewikYQ1dezUCeO",
+			"https://drive.google.com/uc?id=1qfgc_-8t6sD6qzkMQukAu8mOGkXWEuEg"
+		]
+
+	},
+     {
+		"building_id": "B21",
+		"building_name": "Oyster Apartments",
+		"agent_id": "A6",
+		"no_of_floors": 9,
+		"location": "Riverside Dr, Nairobi",
+		"parking_space": 90,
+		"security": true,
+		"tv_connection": true,
+		"owner": "Kahene Muneni",
+		"VisitingDays": [
+			"Tuesday: 17h-16h",
+			"Monday  : 19h - 19h ",
+			"Friday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1Pcw4X9FH2uX9M2HeGCubMP0L9k_as9Ym",
+			"https://drive.google.com/uc?id=1L-CCIaxwx9zWfQY6QPtWetaU0vtUaaHT",
+			"https://drive.google.com/uc?id=1e6q27FtrSsrwvJfR9RKbUFYcDGIcl6NI"
+		]
+
+	},
+      {
+		"building_id": "B22",
+		"building_name": "Neighbours Apartments",
+		"agent_id": "A6",
+		"no_of_floors": 9,
+		"location": "Riverside Dr, Nairobi",
+		"parking_space": 900,
+		"security": false,
+		"tv_connection": true,
+		"owner": "Kamiti Maseve",
+		"VisitingDays": [
+			"Tuesday: 17h-16h",
+			"Monday  : 19h - 19h ",
+			"Saturday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1XY7LkeUw68fRi4WdWnf5sISq64umtSKX",
+			"https://drive.google.com/uc?id=11IuKfd0va_vOy0RFtkr0EVyCSqud6F1d",
+			"https://drive.google.com/uc?id=1t2jd96THQUXFhRhH5jmMtMhwbg2OkFnD"
+		]
+
+	},
+  {
+		"building_id": "B23",
+		"building_name": "Krishna Pointe Apartment",
+		"agent_id": "A6",
+		"no_of_floors": 9,
+		"location": "Riverside Dr, Nairobi",
+		"parking_space": 900,
+		"security": false,
+		"tv_connection": true,
+		"owner": "Kamiti Maseve",
+		"VisitingDays": [
+			"Tuesday: 17h-16h",
+			"Monday  : 19h - 19h ",
+			"Saturday :10h - 18h"
+		],
+		"building_pictures": [
+			"https://drive.google.com/uc?id=1XY7LkeUw68fRi4WdWnf5sISq64umtSKX",
+			"https://drive.google.com/uc?id=11IuKfd0va_vOy0RFtkr0EVyCSqud6F1d",
+			"https://drive.google.com/uc?id=1t2jd96THQUXFhRhH5jmMtMhwbg2OkFnD"
+		]
+
+	},
+
+]
