@@ -1,0 +1,93 @@
+[{
+		"agent_id": "A1",
+		"agent_name": "RE/MAX Kenya",
+		"mobile_number": "0777 736295",
+		"email": "mimi@mimi.com",
+		"approved": false,
+		"address": " 6th Floor, Rhapta Heights, Rhapta Road, Westlands 14752 00800, Nairobi",
+		"account_number": "1000900 KCB Westlands",
+		"website": "www.facebook.com"
+	},
+	{
+		"agent_id": "A2",
+		"agent_name": "Azizi Realtors",
+		"mobile_number": "0703 790095",
+		"email": "livingstone@gmail.com",
+		"approved": true,
+		"address": "James Gichuru Road, Nairobi",
+		"account_number": "10009000 EQUITY Westlands",
+		"website": "www.facebook.com"
+	},
+	{
+		"agent_id": "A3",
+		"agent_name": "HassConsult Ltd",
+		"mobile_number": "0703 790095",
+		"email": "livingstone@gmail.com",
+		"approved": true,
+		"address": "ABC Place, 4th Floor, P.O. Box 14090-00800, Nairobi",
+		"account_number": "111109000 EQUITY Westlands",
+		"website": "hassconsult.co.ke"
+	},
+	{
+		"agent_id": "A4",
+		"agent_name": "Allocate Homes Kenya",
+		"mobile_number": "0733 806060",
+		"email": "livingstone@gmail.com",
+		"approved": false,
+		"address": "Nairobi",
+		"account_number": "111109000 EQUITY Westlands",
+		"website": "allocatehomes.com"
+	},
+	{
+		"agent_id": "A5",
+		"agent_name": "Kings Park Limited - Land For Sale Kenya",
+		"mobile_number": "0704 943900",
+		"email": "livingstone@gmail.com",
+		"approved": false,
+		"address": "Riara Rd, Nairobi",
+		"account_number": "111109000 COOp Westlands",
+		"website": "www.facebook.com"
+	},
+	{
+		"agent_id": "A6",
+		"agent_name": "Crown Homes Management Ltd.",
+		"mobile_number": "020 2737888",
+		"email": "livingstone@gmail.com",
+		"approved": true,
+		"address": "P.O Box 58291 Argwings Kodhek Rd, Nairobi",
+		"account_number": "111109000 COOp Westlands",
+		"website": "www.facebook.com"
+	},
+	{
+		"agent_id": "A7",
+		"agent_name": "Wendani Estate Agents",
+		"mobile_number": "0737 312220",
+		"email": "livingstone@gmail.com",
+		"approved": true,
+		"address": "1st Floor, Comfort Building, Naivasha Rd, Nairobi",
+		"account_number": "111109000 COOp Westlands",
+		"website": "www.facebook.com"
+	},
+	{
+		"agent_id": "A8",
+		"agent_name": "Orion Valuers",
+		"mobile_number": "0715 186991",
+		"email": "livingstone@gmail.com",
+		"approved": true,
+		"address": "00100 Kaptagat Rd, Nairobi",
+		"account_number": "111109000 COOp Westlands",
+		"website": "www.facebook.com"
+	},
+	{
+		"agent_id": "A9",
+		"agent_name": "Hillside Homes Ltd",
+		"mobile_number": "0720 330073",
+		"email": "livingstone@gmail.com",
+		"approved": true,
+		"address": "Sifa Towers, Ring Rd Kilimani, Nairobi",
+		"account_number": "111109000 COOp Westlands",
+		"website": "www.facebook.com"
+	}
+
+
+]
